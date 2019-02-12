@@ -1,6 +1,6 @@
 # **KeypointNet**
 
-A Residual Neural Network for Extracting Feature Points of FSD Cons
+A Residual Neural Network for Extracting Feature Points of FSD Cones
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ A step by step series of examples that tell you how to get running
 
 
 
-1) Put the cone images (*.jpg) into `./dataset/` directory
+1) Put the cone images (*.jpg, 80 x 80) into `./dataset/` directory
 
 2) Run the `generate.py` to  generate the `keypoints.json`
 
