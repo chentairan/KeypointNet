@@ -12,7 +12,7 @@ What things you need to install the software and how to install them
 
 1) Install Anaconda (recommend)
 2) Install Pytorch, scikit-image
-3) Install [sloth](https://github.com/wincle/sloth) for labeling image data of keypoints.
+3) Install [sloth](https://github.com/wincle/sloth) for labeling the keypoints of images.
 
 ```bash
 git clone https://github.com/chentairan/KeypointNet.git
